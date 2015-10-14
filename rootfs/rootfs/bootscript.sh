@@ -98,4 +98,4 @@ fi
 /etc/rc.d/xedaemon
 
 # Load Parallels Tools daemon
-/etc/rc.d/prltoolsd
+# /etc/rc.d/prltoolsd
